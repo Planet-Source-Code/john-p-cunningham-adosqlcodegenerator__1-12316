@@ -1,0 +1,6 @@
+ContextIDs = 110, 110, 752, 456, C
+modWebEmail = 43, 8, 736, 465, C
+modtxtEffect = 110, 110, 752, 456, C
+frmAbout = 132, 132, 752, 484, C, 110, 110, 557, 462, C
+frmADOSQLGenerate = 121, 119, 741, 471, C, 65, -13, 725, 528, C
+ButtonForeColor = 0, 0, 0, 0, C
